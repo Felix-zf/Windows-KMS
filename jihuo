@@ -1,0 +1,8 @@
+windows自建kms激活服务
+
+VMware Workstation Pro 虛擬機軟體: https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html
+VMware Workstation16 密钥：ZF71R-DMX85-08DQY-8YMNC-PPHV8
+vlmcsd 部署工具: https://github.com/Wind4/vlmcsd
+Windows 激活命令：
+slmgr -skms 192.168.1.xx  (替換成你自己的ipv4地址)
+slmgr -ipk 密鑰
