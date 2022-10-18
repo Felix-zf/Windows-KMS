@@ -16,4 +16,6 @@ cd C:\Program Files \Microsoft Office\Office16
 cscript ospp.vbs /sethst:192.168.1.xx （替換你自己的ipV4）
 cscript ospp.vbs /act  
 ```  
+  
+  
 ![](https://www.freedidi.com/wp-content/uploads/2022/10/freedidi_logo.jpg)
