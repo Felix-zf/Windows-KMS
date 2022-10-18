@@ -8,4 +8,10 @@
 slmgr -skms 192.168.1.xx  (替換成你自己的ipv4地址)
 slmgr -ipk 密鑰（微軟官方批量激活密鑰獲取）
 slmgr /ato  
+```  
+### office激活命令  
+```  
+cd C:\Program Files \Microsoft Office\Office16
+cscript ospp.vbs /sethst:192.168.1.xx （替換你自己的ipV4）
+cscript ospp.vbs /act  
 ```
