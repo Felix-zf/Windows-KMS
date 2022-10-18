@@ -6,7 +6,7 @@
 ### windows激活命令
 ```  
 slmgr -skms 192.168.1.xx  (替換成你自己的ipv4地址)
-slmgr -ipk 密鑰（微軟官方批量激活密鑰獲取）
+slmgr -ipk 密鑰[微軟官方批量激活密鑰獲取](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj612867(v=ws.11)#windows-10)
 slmgr /ato  
 ```  
 ### office激活命令  
