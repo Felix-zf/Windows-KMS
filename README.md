@@ -4,4 +4,8 @@
 - VMware Workstation16激活密钥：``` ZF71R-DMX85-08DQY-8YMNC-PPHV8  ```
 ### vlmcsd 部署工具: [点击下载](https://github.com/Wind4/vlmcsd)  
 ### windows激活命令
-
+```  
+slmgr -skms 192.168.1.xx  (替換成你自己的ipv4地址)
+slmgr -ipk 密鑰（微軟官方批量激活密鑰獲取）
+slmgr /ato  
+```
